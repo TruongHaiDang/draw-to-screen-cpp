@@ -1,0 +1,27 @@
+﻿  drawtoscreen.cpp
+D:\GoogleDrive\My-Projects\drawtoscreen\drawtoscreen.cpp(41,99): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\GoogleDrive\My-Projects\drawtoscreen\drawtoscreen.cpp(41,56): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\GoogleDrive\My-Projects\drawtoscreen\drawtoscreen.cpp(42,95): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\GoogleDrive\My-Projects\drawtoscreen\drawtoscreen.cpp(42,52): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating code
+  2 of 167 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  drawtoscreen.vcxproj -> D:\GoogleDrive\My-Projects\drawtoscreen\x64\Release\drawtoscreen.exe
